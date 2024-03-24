@@ -10,3 +10,5 @@
 </div>
 ```
 ![firefox_S64SR04KbQ](https://github.com/knileshh/Tailwind-Lib/assets/90758938/ab644aa3-706d-42dd-b4e6-0782d049512c)
+
+* Was unresponsive and somthing similar.
